@@ -1,0 +1,4307 @@
+{
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Allschwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427305<br>Nis Nummer: ORG67<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427305",
+            "Nis Nummer": "ORG67",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -4,
+              9,
+              10,
+              11
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Binningen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427312<br>Nis Nummer: ORG69<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427312",
+            "Nis Nummer": "ORG69",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -11,
+              12,
+              13,
+              14
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Bottmingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427319<br>Nis Nummer: ORG70<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427319",
+            "Nis Nummer": "ORG70",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -5,
+              -12,
+              -15,
+              15,
+              16,
+              17,
+              18
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oberwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427326<br>Nis Nummer: ORG71<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427326",
+            "Nis Nummer": "ORG71",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Biel-Benken",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427333<br>Nis Nummer: ORG72<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427333",
+            "Nis Nummer": "ORG72",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -17,
+              24,
+              25,
+              26,
+              27,
+              -20
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Therwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427340<br>Nis Nummer: ORG73<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427340",
+            "Nis Nummer": "ORG73",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -21,
+              -28,
+              28,
+              29,
+              30
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Witterswil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427347<br>Nis Nummer: ORG74<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427347",
+            "Nis Nummer": "ORG74",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -27,
+              31,
+              32,
+              33,
+              34,
+              -29
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Ettingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427354<br>Nis Nummer: ORG75<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427354",
+            "Nis Nummer": "ORG75",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -14,
+              35,
+              36,
+              37,
+              38,
+              39,
+              -25,
+              -16
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Reinach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427361<br>Nis Nummer: ORG76<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427361",
+            "Nis Nummer": "ORG76",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -22,
+              -31,
+              40,
+              41
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Bättwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427368<br>Nis Nummer: ORG77<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427368",
+            "Nis Nummer": "ORG77",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -30,
+              -35,
+              42,
+              43,
+              44,
+              -41
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hofstetten-Flüh",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427375<br>Nis Nummer: ORG78<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427375",
+            "Nis Nummer": "ORG78",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Metzerlen-Mariastein",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427382<br>Nis Nummer: ORG79<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427382",
+            "Nis Nummer": "ORG79",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -51,
+              52,
+              53,
+              54,
+              55
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Rodersdorf",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427389<br>Nis Nummer: ORG80<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427389",
+            "Nis Nummer": "ORG80",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -49,
+              56,
+              57,
+              58,
+              59
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Burg im Leimental",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427396<br>Nis Nummer: ORG81<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427396",
+            "Nis Nummer": "ORG81",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Laufen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427410<br>Nis Nummer: ORG83<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Industrie)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427410",
+            "Nis Nummer": "ORG83",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Industrie)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -68,
+              68,
+              69,
+              70,
+              71
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wahlen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427417<br>Nis Nummer: ORG84<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG, aber keine Konzessionsgemeinde (Im Witist), Durchleitungen NE3 und NE5",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427417",
+            "Nis Nummer": "ORG84",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG, aber keine Konzessionsgemeinde (Im Witist), Durchleitungen NE3 und NE5"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -67,
+              72,
+              73,
+              74,
+              75,
+              76,
+              -69
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Brislach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427424<br>Nis Nummer: ORG85<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427424",
+            "Nis Nummer": "ORG85",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -70,
+              -77,
+              77,
+              78,
+              79,
+              80
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Breitenbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427431<br>Nis Nummer: ORG86<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427431",
+            "Nis Nummer": "ORG86",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -71,
+              -81,
+              81,
+              82,
+              83,
+              84
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Büsserach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427438<br>Nis Nummer: ORG87<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427438",
+            "Nis Nummer": "ORG87",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -61,
+              -72,
+              -85,
+              85,
+              86,
+              87
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Grindel",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427445<br>Nis Nummer: ORG88<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427445",
+            "Nis Nummer": "ORG88",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -80,
+              88,
+              89,
+              90,
+              -82
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Fehren",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427459<br>Nis Nummer: ORG90<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427459",
+            "Nis Nummer": "ORG90",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              91,
+              92,
+              93,
+              94
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Bretzwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427466<br>Nis Nummer: ORG92<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427466",
+            "Nis Nummer": "ORG92",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -95,
+              95,
+              96,
+              97,
+              98
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Lauwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427473<br>Nis Nummer: ORG93<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427473",
+            "Nis Nummer": "ORG93",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -94,
+              99,
+              100,
+              101,
+              102,
+              -96
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Reigoldswil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427480<br>Nis Nummer: ORG94<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Hof Bürten)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427480",
+            "Nis Nummer": "ORG94",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Hof Bürten)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -93,
+              103,
+              104,
+              105,
+              106,
+              107,
+              108,
+              -100
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Seewen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427487<br>Nis Nummer: ORG95<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427487",
+            "Nis Nummer": "ORG95",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -101,
+              -109,
+              109,
+              110
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Ziefen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427494<br>Nis Nummer: ORG96<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Hof Lachmatt)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427494",
+            "Nis Nummer": "ORG96",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Hof Lachmatt)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -108,
+              111,
+              112,
+              113,
+              114
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Büren",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427501<br>Nis Nummer: ORG97<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427501",
+            "Nis Nummer": "ORG97",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -110,
+              -115,
+              115,
+              116,
+              117
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Lupsingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427508<br>Nis Nummer: ORG98<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427508",
+            "Nis Nummer": "ORG98",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -75,
+              118,
+              119,
+              120,
+              121
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Grellingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427515<br>Nis Nummer: ORG99<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427515",
+            "Nis Nummer": "ORG99",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -106,
+              122,
+              -121,
+              123,
+              124,
+              125,
+              126
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Duggingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427522<br>Nis Nummer: ORG100<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427522",
+            "Nis Nummer": "ORG100",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -74,
+              127,
+              128,
+              129,
+              -119
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Nenzlingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427529<br>Nis Nummer: ORG101<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Antenne Eggflue)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427529",
+            "Nis Nummer": "ORG101",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Antenne Eggflue)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -33,
+              130,
+              -124,
+              -120,
+              -130
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Pfeffingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427536<br>Nis Nummer: ORG102<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427536",
+            "Nis Nummer": "ORG102",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -26,
+              -40,
+              131,
+              -125,
+              -131,
+              -32
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Aesch",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427543<br>Nis Nummer: ORG103<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427543",
+            "Nis Nummer": "ORG103",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -107,
+              -127,
+              132,
+              133,
+              -112
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hochwald",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427550<br>Nis Nummer: ORG104<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427550",
+            "Nis Nummer": "ORG104",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -39,
+              134,
+              135,
+              -133,
+              -126,
+              -132
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Dornach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427557<br>Nis Nummer: ORG105<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427557",
+            "Nis Nummer": "ORG105",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -113,
+              -134,
+              -136,
+              136,
+              137,
+              138,
+              139
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Gempen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427564<br>Nis Nummer: ORG106<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427564",
+            "Nis Nummer": "ORG106",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -114,
+              -140,
+              140,
+              141,
+              142,
+              -116
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Nuglar-St. Pantaleon",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427571<br>Nis Nummer: ORG107<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427571",
+            "Nis Nummer": "ORG107",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -143,
+              143,
+              144,
+              -117
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Seltisberg",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427578<br>Nis Nummer: ORG108<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Orismühle)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427578",
+            "Nis Nummer": "ORG108",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Orismühle)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -38,
+              145,
+              146,
+              -137,
+              -135
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Arlesheim",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427585<br>Nis Nummer: ORG109<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427585",
+            "Nis Nummer": "ORG109",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              147,
+              148
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Pratteln",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427592<br>Nis Nummer: ORG110<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Lachmatt - Froloo, NE5 und NE7 Gebiet Schweiterhalle",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427592",
+            "Nis Nummer": "ORG110",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Lachmatt - Froloo, NE5 und NE7 Gebiet Schweiterhalle"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -138,
+              -147,
+              149,
+              150,
+              151,
+              152,
+              -148
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Muttenz",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427599<br>Nis Nummer: ORG111<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427599",
+            "Nis Nummer": "ORG111",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -152,
+              153,
+              154
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Birsfelden",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427606<br>Nis Nummer: ORG112<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427606",
+            "Nis Nummer": "ORG112",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -76,
+              -122,
+              -123,
+              -105,
+              155,
+              -78
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Himmelried",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427613<br>Nis Nummer: ORG113<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427613",
+            "Nis Nummer": "ORG113",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -79,
+              -156,
+              -104,
+              -92,
+              -99,
+              156,
+              157,
+              158,
+              -89
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Nunningen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427620<br>Nis Nummer: ORG114<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427620",
+            "Nis Nummer": "ORG114",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -83,
+              -91,
+              159,
+              -158,
+              160,
+              161
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Meltingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427627<br>Nis Nummer: ORG115<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427627",
+            "Nis Nummer": "ORG115",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -90,
+              -159,
+              -160
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Zullwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427634<br>Nis Nummer: ORG116<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427634",
+            "Nis Nummer": "ORG116",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -98,
+              162,
+              163,
+              164,
+              165,
+              -161,
+              -157
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Beinwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427641<br>Nis Nummer: ORG117<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427641",
+            "Nis Nummer": "ORG117",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -37,
+              166,
+              -150,
+              -146
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Münchenstein",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427648<br>Nis Nummer: ORG118<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427648",
+            "Nis Nummer": "ORG118",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -7,
+              167,
+              168
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Schönenbuch",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427669<br>Nis Nummer: ORG121<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427669",
+            "Nis Nummer": "ORG121",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -3,
+              169,
+              170,
+              -154,
+              -151,
+              -167,
+              -36,
+              -13,
+              -10
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Basel",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427676<br>Nis Nummer: ORG122<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427676",
+            "Nis Nummer": "ORG122",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -58,
+              171,
+              172,
+              173,
+              174,
+              175
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Kleinlützel",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 13427704<br>Nis Nummer: ORG126<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "13427704",
+            "Nis Nummer": "ORG126",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -62,
+              -88,
+              176,
+              177,
+              178,
+              179,
+              180
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Bärschwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 55582166<br>Nis Nummer: ORG268<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "55582166",
+            "Nis Nummer": "ORG268",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -63,
+              -181,
+              181,
+              -173,
+              182
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Liesberg",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 76172853<br>Nis Nummer: ORG351<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "76172853",
+            "Nis Nummer": "ORG351",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -97,
+              -103,
+              183,
+              184,
+              185,
+              186,
+              187,
+              188,
+              -163
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Mümliswil-Ramiswil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 78239536<br>Nis Nummer: ORG355<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Hof Schilt)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "78239536",
+            "Nis Nummer": "ORG355",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Hof Schilt)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -174,
+              189,
+              190
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Roggenburg",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 78239543<br>Nis Nummer: ORG356<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Hof Baumgarten)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "78239543",
+            "Nis Nummer": "ORG356",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Hof Baumgarten)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -142,
+              191,
+              -144
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Liestal",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 78567914<br>Nis Nummer: ORG360<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "78567914",
+            "Nis Nummer": "ORG360",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -66,
+              192,
+              193,
+              -128,
+              -73
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Zwingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 79980067<br>Nis Nummer: ORG364<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "79980067",
+            "Nis Nummer": "ORG364",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -47,
+              194,
+              -193,
+              -65,
+              195
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Dittingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 80088720<br>Nis Nummer: ORG365<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "80088720",
+            "Nis Nummer": "ORG365",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -84,
+              -162,
+              -166,
+              196,
+              -86
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Erschwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 83660033<br>Nis Nummer: ORG385<br>Netzgebiet: Primeo Netz AG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "83660033",
+            "Nis Nummer": "ORG385",
+            "Netzgebiet": "Primeo Netz AG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -1,
+              197,
+              198,
+              199
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hégenheim",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 102244499<br>Nis Nummer: ORG399<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "102244499",
+            "Nis Nummer": "ORG399",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -56,
+              200,
+              201,
+              202,
+              203,
+              -23,
+              -42,
+              -45,
+              -52
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Leymen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 102244540<br>Nis Nummer: ORG401<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "102244540",
+            "Nis Nummer": "ORG401",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -200,
+              204,
+              205,
+              -170,
+              -2
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Saint-Louis",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 111012817<br>Nis Nummer: ORG407<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "111012817",
+            "Nis Nummer": "ORG407",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -9,
+              206,
+              207,
+              208,
+              209,
+              -198
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Buschwiller",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 111012830<br>Nis Nummer: ORG408<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "111012830",
+            "Nis Nummer": "ORG408",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -175,
+              -191,
+              210
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Kiffis",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 111317659<br>Nis Nummer: ORG409<br>Netzgebiet: Fremd<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet RD SAS (Hof Kloesterle)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "111317659",
+            "Nis Nummer": "ORG409",
+            "Netzgebiet": "Fremd",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet RD SAS (Hof Kloesterle)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -50,
+              -60,
+              211,
+              -53
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Biederthal",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829849<br>Nis Nummer: ORG412<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829849",
+            "Nis Nummer": "ORG412",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              212,
+              213,
+              214,
+              215,
+              216
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Folgensbourg",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829869<br>Nis Nummer: ORG413<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829869",
+            "Nis Nummer": "ORG413",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -202,
+              217,
+              218,
+              -215,
+              219
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hagenthal-le-Haut",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829911<br>Nis Nummer: ORG415<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829911",
+            "Nis Nummer": "ORG415",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -8,
+              -169,
+              220,
+              -203,
+              -220,
+              -214,
+              221,
+              -207
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hagenthal-le-Bas",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829924<br>Nis Nummer: ORG416<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829924",
+            "Nis Nummer": "ORG416",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -199,
+              -210,
+              222,
+              -205
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hésingue",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829958<br>Nis Nummer: ORG417<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829958",
+            "Nis Nummer": "ORG417",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -55,
+              223,
+              -218,
+              -201
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Liebenswiller",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113829972<br>Nis Nummer: ORG419<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113829972",
+            "Nis Nummer": "ORG419",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -6,
+              -19,
+              -24,
+              -204,
+              -221,
+              -168
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Neuwiller",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113830035<br>Nis Nummer: ORG421<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113830035",
+            "Nis Nummer": "ORG421",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -208,
+              -222,
+              -213,
+              -217,
+              224
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wentzwiller",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 113830055<br>Nis Nummer: ORG422<br>Netzgebiet: RD SAS<br>Land: Frankreich<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "113830055",
+            "Nis Nummer": "ORG422",
+            "Netzgebiet": "RD SAS",
+            "Land": "Frankreich",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              225,
+              226,
+              227
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Aarau",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983952<br>Nis Nummer: ORG434<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Gösgen - Aarau",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983952",
+            "Nis Nummer": "ORG434",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Gösgen - Aarau"
+          }
+        },
+        {
+          "arcs": [
+            [
+              228,
+              229,
+              230,
+              231
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Aarburg",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983958<br>Nis Nummer: ORG435<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet AVAG (Hof Ruttigen)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983958",
+            "Nis Nummer": "ORG435",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet AVAG (Hof Ruttigen)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              232,
+              233,
+              234,
+              235
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Attiswil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983970<br>Nis Nummer: ORG437<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983970",
+            "Nis Nummer": "ORG437",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -187,
+              236,
+              237,
+              238,
+              239,
+              240
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Balsthal",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983976<br>Nis Nummer: ORG438<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983976",
+            "Nis Nummer": "ORG438",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              241,
+              242,
+              243,
+              244,
+              245
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Boningen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983988<br>Nis Nummer: ORG440<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde NE3 und NE5, NE7 EUG",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983988",
+            "Nis Nummer": "ORG440",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde NE3 und NE5, NE7 EUG"
+          }
+        },
+        {
+          "arcs": [
+            [
+              246,
+              247,
+              248,
+              249,
+              250
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Däniken",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121983994<br>Nis Nummer: ORG441<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Pachtgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121983994",
+            "Nis Nummer": "ORG441",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Pachtgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              251,
+              252,
+              253,
+              254,
+              255
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Deitingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984000<br>Nis Nummer: ORG442<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984000",
+            "Nis Nummer": "ORG442",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -248,
+              256,
+              257,
+              258,
+              259,
+              260,
+              261
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Dulliken",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984006<br>Nis Nummer: ORG443<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Pachtgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984006",
+            "Nis Nummer": "ORG443",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Pachtgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              262,
+              263,
+              264,
+              265,
+              266,
+              267,
+              268
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Egerkingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984012<br>Nis Nummer: ORG444<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984012",
+            "Nis Nummer": "ORG444",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              269,
+              270,
+              271,
+              272,
+              273
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Eptingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984024<br>Nis Nummer: ORG446<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet AVAG (Chall, Schmutzberg)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984024",
+            "Nis Nummer": "ORG446",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet AVAG (Chall, Schmutzberg)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -227,
+              274,
+              275,
+              276,
+              277,
+              278
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Erlinsbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984030<br>Nis Nummer: ORG447<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Gösgen - Aarau",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984030",
+            "Nis Nummer": "ORG447",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Gösgen - Aarau"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -235,
+              279,
+              -255,
+              280,
+              281
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Flumenthal",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984036<br>Nis Nummer: ORG448<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Luterbach - Niederbipp",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984036",
+            "Nis Nummer": "ORG448",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Luterbach - Niederbipp"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -242,
+              282,
+              283,
+              284,
+              285
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Fulenbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984042<br>Nis Nummer: ORG449<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Kappel",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984042",
+            "Nis Nummer": "ORG449",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Kappel"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -251,
+              286,
+              287,
+              288,
+              289,
+              290,
+              291
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Gretzenbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984054<br>Nis Nummer: ORG451<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Pachtgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984054",
+            "Nis Nummer": "ORG451",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Pachtgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -243,
+              292,
+              -263,
+              293,
+              294
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Gunzgen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984060<br>Nis Nummer: ORG452<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde NE3 und NE5, NE7 EUG",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984060",
+            "Nis Nummer": "ORG452",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde NE3 und NE5, NE7 EUG"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -269,
+              295,
+              -271,
+              296,
+              297,
+              298,
+              -294
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hägendorf",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984066<br>Nis Nummer: ORG453<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde NE3 und NE5, NE7 EUG",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984066",
+            "Nis Nummer": "ORG453",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde NE3 und NE5, NE7 EUG"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -264,
+              -293,
+              -286,
+              299
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Härkingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984072<br>Nis Nummer: ORG454<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984072",
+            "Nis Nummer": "ORG454",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -270,
+              300,
+              301,
+              302,
+              303,
+              304,
+              -297
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Hauenstein-Ifenthal",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984078<br>Nis Nummer: ORG455<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984078",
+            "Nis Nummer": "ORG455",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -186,
+              305,
+              -267,
+              306,
+              -237
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Holderbank",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984084<br>Nis Nummer: ORG456<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Oberbuchsiten - Gösgen",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984084",
+            "Nis Nummer": "ORG456",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Oberbuchsiten - Gösgen"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -244,
+              -295,
+              -299,
+              307,
+              308,
+              309
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Kappel",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984090<br>Nis Nummer: ORG457<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde NE3 und NE5, NE7 EUG",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984090",
+            "Nis Nummer": "ORG457",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde NE3 und NE5, NE7 EUG"
+          }
+        },
+        {
+          "arcs": [
+            [
+              310,
+              311,
+              312,
+              313,
+              314,
+              315
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Kestenholz",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984096<br>Nis Nummer: ORG458<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Kappel",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984096",
+            "Nis Nummer": "ORG458",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Kappel"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -290,
+              316,
+              317
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Kölliken",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984102<br>Nis Nummer: ORG459<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Gösgen - Oberentfelden",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984102",
+            "Nis Nummer": "ORG459",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Gösgen - Oberentfelden"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -274,
+              318,
+              319,
+              -301
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Läufelfingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984108<br>Nis Nummer: ORG460<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet AVAG (Hof Reisen, Hupp)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984108",
+            "Nis Nummer": "ORG460",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet AVAG (Hof Reisen, Hupp)"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -185,
+              320,
+              -272,
+              -296,
+              -268,
+              -306
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Langenbruck",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984114<br>Nis Nummer: ORG461<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Oberbuchsiten - Gösgen",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984114",
+            "Nis Nummer": "ORG461",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Oberbuchsiten - Gösgen"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -188,
+              -241,
+              321,
+              322
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Laupersdorf",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984120<br>Nis Nummer: ORG462<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984120",
+            "Nis Nummer": "ORG462",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              323,
+              324,
+              325,
+              326,
+              327,
+              328,
+              329
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Lostorf",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984126<br>Nis Nummer: ORG463<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984126",
+            "Nis Nummer": "ORG463",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -253,
+              330,
+              331
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Luterbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984132<br>Nis Nummer: ORG464<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Luterbach - Flumenthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984132",
+            "Nis Nummer": "ORG464",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Luterbach - Flumenthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -265,
+              -300,
+              -285,
+              332,
+              333,
+              334
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Neuendorf",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984138<br>Nis Nummer: ORG465<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984138",
+            "Nis Nummer": "ORG465",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -240,
+              335,
+              -313,
+              336,
+              337,
+              338,
+              -322
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Niederbipp",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984150<br>Nis Nummer: ORG467<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Kappel, Flumenthal, Balsthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984150",
+            "Nis Nummer": "ORG467",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Kappel, Flumenthal, Balsthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -316,
+              339,
+              -334,
+              340
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Niederbuchsiten",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984156<br>Nis Nummer: ORG468<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984156",
+            "Nis Nummer": "ORG468",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -250,
+              341,
+              -324,
+              342,
+              -277,
+              343,
+              -287
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Niedergösgen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984162<br>Nis Nummer: ORG469<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984162",
+            "Nis Nummer": "ORG469",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -338,
+              344,
+              345,
+              346
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oberbipp",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984168<br>Nis Nummer: ORG470<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Flumenthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984168",
+            "Nis Nummer": "ORG470",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Flumenthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -238,
+              -307,
+              -266,
+              -335,
+              -340,
+              -315,
+              347
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oberbuchsiten",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984174<br>Nis Nummer: ORG471<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Oberbuchsiten - Gösgen",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984174",
+            "Nis Nummer": "ORG471",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Oberbuchsiten - Gösgen"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -289,
+              348,
+              349,
+              -317
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oberentfelden",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984180<br>Nis Nummer: ORG472<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Gösgen - Oberentfelden",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984180",
+            "Nis Nummer": "ORG472",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Gösgen - Oberentfelden"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -249,
+              -262,
+              350,
+              -325,
+              -342
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Obergösgen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984186<br>Nis Nummer: ORG473<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Pachtgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984186",
+            "Nis Nummer": "ORG473",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Pachtgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -239,
+              -348,
+              -314,
+              -336
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oensingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984192<br>Nis Nummer: ORG474<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Balsthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984192",
+            "Nis Nummer": "ORG474",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Balsthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -230,
+              351,
+              -245,
+              -310,
+              352,
+              353,
+              354,
+              -260,
+              355
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Olten",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984198<br>Nis Nummer: ORG475<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Kappel - Rankwage",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984198",
+            "Nis Nummer": "ORG475",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Kappel - Rankwage"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -298,
+              -305,
+              356,
+              -308
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Rickenbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984204<br>Nis Nummer: ORG476<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984204",
+            "Nis Nummer": "ORG476",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -254,
+              -332,
+              357,
+              -281
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Riedholz",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984210<br>Nis Nummer: ORG477<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Luterbach - Flumenthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984210",
+            "Nis Nummer": "ORG477",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Luterbach - Flumenthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -276,
+              358,
+              359,
+              -349,
+              -288,
+              -344
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Schönenwerd",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984216<br>Nis Nummer: ORG478<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984216",
+            "Nis Nummer": "ORG478",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -231,
+              -356,
+              -259,
+              360
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Starrkirch-Wil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984228<br>Nis Nummer: ORG480<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984228",
+            "Nis Nummer": "ORG480",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -278,
+              -343,
+              -330,
+              361
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Stüsslingen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984234<br>Nis Nummer: ORG481<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984234",
+            "Nis Nummer": "ORG481",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -303,
+              362,
+              -327,
+              363,
+              -354,
+              364
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Trimbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984240<br>Nis Nummer: ORG482<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984240",
+            "Nis Nummer": "ORG482",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -247,
+              -292,
+              365,
+              366,
+              -257
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Walterswil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984246<br>Nis Nummer: ORG483<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984246",
+            "Nis Nummer": "ORG483",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -234,
+              367,
+              368,
+              -256,
+              -280
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wangen a. Aare",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984252<br>Nis Nummer: ORG484<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Flumenthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984252",
+            "Nis Nummer": "ORG484",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Flumenthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -304,
+              -365,
+              -353,
+              -309,
+              -357
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wangen b. Olten",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984258<br>Nis Nummer: ORG485<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984258",
+            "Nis Nummer": "ORG485",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -233,
+              369,
+              -346,
+              370,
+              -368
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wiedlisbach",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984264<br>Nis Nummer: ORG486<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Flumenthal",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984264",
+            "Nis Nummer": "ORG486",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Flumenthal"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -261,
+              -355,
+              -364,
+              -326,
+              -351
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Winznau",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984270<br>Nis Nummer: ORG487<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984270",
+            "Nis Nummer": "ORG487",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -302,
+              -320,
+              371,
+              -328,
+              -363
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wisen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984276<br>Nis Nummer: ORG488<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Konzessionsgemeinde",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984276",
+            "Nis Nummer": "ORG488",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Konzessionsgemeinde"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -284,
+              372,
+              -311,
+              -341,
+              -333
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Wolfwil",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984282<br>Nis Nummer: ORG489<br>Netzgebiet: AVAG<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: NE3 Leitung Niederbipp - Kappel",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984282",
+            "Nis Nummer": "ORG489",
+            "Netzgebiet": "AVAG",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "NE3 Leitung Niederbipp - Kappel"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -226,
+              373,
+              -359,
+              -275
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Eppenberg-Wöschnau",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 121984315<br>Nis Nummer: ORG490<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: null",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "121984315",
+            "Nis Nummer": "ORG490",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "null"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -232,
+              -361,
+              -258,
+              -367,
+              374
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Oftringen",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 138332241<br>Nis Nummer: ORG509<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: Wärmeverbund Primeo Wärme AG",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "138332241",
+            "Nis Nummer": "ORG509",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "Wärmeverbund Primeo Wärme AG"
+          }
+        },
+        {
+          "arcs": [
+            [
+              -87,
+              -197,
+              -165,
+              375,
+              -179,
+              376,
+              -177
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "name": "Val Terbi",
+            "styleUrl": "#poly-000000-1200-77",
+            "styleHash": "-45970b5b",
+            "styleMapHash": {
+              "normal": "#poly-000000-1200-77-normal",
+              "highlight": "#poly-000000-1200-77-highlight"
+            },
+            "description": "Beschreibung: <br>Id: 160942095<br>Nis Nummer: ORG512<br>Netzgebiet: Fremd<br>Land: Schweiz<br>Typ: Gemeinde<br>Bemerkung: teilweise Netzgebiet Primeo Netz AG (Retemberg)",
+            "stroke": "#000000",
+            "stroke-opacity": 1,
+            "stroke-width": 1.2,
+            "fill": "grey",
+            "fill-opacity": 0.30196078431372547,
+            "Beschreibung": "",
+            "Id": "160942095",
+            "Nis Nummer": "ORG512",
+            "Netzgebiet": "Fremd",
+            "Land": "Schweiz",
+            "Typ": "Gemeinde",
+            "Bemerkung": "teilweise Netzgebiet Primeo Netz AG (Retemberg)"
+          }
+        }
+      ]
+    }
+  
